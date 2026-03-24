@@ -1,0 +1,12 @@
+Django>=4,<6
+djangorestframework
+django-filter
+pdfplumber
+pytesseract
+Pillow
+python-dotenv
+openai
+anthropic
+requests
+pytest
+pytest-django
